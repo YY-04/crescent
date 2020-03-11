@@ -30,7 +30,7 @@
 	               color:#ff4500;
 			       font-size:22px;
 }
-.inlineframe-2 p {
+.inlineframe-2 a p {
 	              font-size:15px;
 		      text-indent: -1em;
 		      padding-left:2em;
@@ -41,5 +41,5 @@ p {
 }
 .project {
 	  text-align:center;
-	  margin:10px 10px 10px 10px;
+	  margin:10px 20px 10px 10px;
 }
